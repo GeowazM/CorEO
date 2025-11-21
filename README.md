@@ -1,23 +1,5 @@
-# Welcome to the CoreEO repository
-This is an academic paper project page template.
-
-👋 Welcome!
-We’re using Discussions as a place to connect with other members of our community. We hope that you:
-
-Example project pages built using this template are:
-- https://horwitz.ai/probex
-- https://vision.huji.ac.il/probegen
-- https://horwitz.ai/mother
-- https://horwitz.ai/spectral_detuning
-- https://vision.huji.ac.il/ladeda
-- https://vision.huji.ac.il/dsire
-- https://horwitz.ai/podd
-- https://dreamix-video-editing.github.io
-- https://horwitz.ai/conffusion
-- https://horwitz.ai/3d_ads/
-- https://vision.huji.ac.il/ssrl_ad
-- https://vision.huji.ac.il/deepsim
-
+# 👋 Welcome to the CoreEO repository
+The Core Concepts of Earth Observation Education is a didactical framework to connect content-driven aspects of Earth Observation or Remote Sensing with the methologic-technical trade-offs to support teaching and learning with Earth Observation data and topics.
 
 
 ## Start using the template
@@ -27,14 +9,6 @@ The template uses html for controlling the content and css for controlling the s
 To edit the websites contents edit the `index.html` file. It contains different HTML "building blocks", use whichever ones you need and comment out the rest.  
 
 **IMPORTANT!** Make sure to replace the `favicon.ico` under `static/images/` with one of your own, otherwise your favicon is going to be a dreambooth image of me.
-
-## Components
-- Teaser video
-- Images Carousel
-- Youtube embedding
-- Video Carousel
-- PDF Poster
-- Bibtex citation
 
 ## Tips:
 - The `index.html` file contains comments instructing you what to replace, you should follow these comments.
